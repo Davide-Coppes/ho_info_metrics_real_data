@@ -1,0 +1,119 @@
+0, A, Industrials
+1, AA, Basic Materials
+2, AB, Financials
+3, ABC, Consumer Services
+4, ABT, Health Care
+5, ADC, Financials
+6, AEO, Consumer Services
+7, AEP, Utilities
+8, AES, Utilities
+9, AFG, Financials
+10, AFL, Financials
+11, AGCO, Industrials
+12, AIG, Financials
+13, AIN, Industrials
+14, AIR, Industrials
+15, AIV, Financials
+16, AJG, Financials
+17, ALK, Consumer Services
+18, ALL, Financials
+19, AME, Industrials
+20, AMG, Financials
+21, AN, Consumer Services
+22, ANF, Consumer Services
+23, AON, Financials
+24, APA, Oil & Gas
+25, APD, Basic Materials
+26, APH, Industrials
+27, ARE, Financials
+28, ARW, Industrials
+29, ASB, Financials
+30, ASGN, Industrials
+31, ATI, Basic Materials
+32, AVA, Utilities
+33, AVB, Financials
+34, AVT, Industrials
+35, AVY, Basic Materials
+36, AWF, Financials
+37, AXL, Consumer Goods
+38, AXP, Financials
+39, AZO, Consumer Services
+40, BA, Industrials
+41, BAC, Financials
+42, BAX, Health Care
+43, BC, Consumer Goods
+44, BDN, Financials
+45, BDX, Health Care
+46, BEN, Financials
+47, BFS, Financials
+48, BIG, Consumer Services
+49, BIO, Health Care
+50, BKE, Consumer Services
+51, BKH, Utilities
+52, BKN, Financials
+53, BLK, Financials
+54, BLL, Industrials
+55, BMY, Health Care
+56, BOH, Financials
+57, BRO, Financials
+58, BSX, Health Care
+59, BTO, Financials
+60, BWA, Consumer Goods
+61, BXP, Financials
+62, BYD, Consumer Services
+63, BZH, Consumer Goods
+64, CACI, Technology
+65, CAG, Consumer Goods
+66, CAH, Consumer Services
+67, CATO, Consumer Services
+68, CB, Financials
+69, CBT, Basic Materials
+70, CCI, Financials
+71, CCK, Industrials
+72, CCL, Consumer Services
+73, CEE, Financials
+74, CHS, Consumer Services
+75, CI, Health Care
+76, CIEN, Technology
+77, CL, Consumer Goods
+78, CLB, Oil & Gas
+79, CLH, Industrials
+80, CLI, Financials
+81, CMA, Financials
+82, CMO, Financials
+83, CMS, Utilities
+84, CNA, Financials
+85, CNP, Utilities
+86, CNX, Basic Materials
+87, COF, Financials
+88, COG, Oil & Gas
+89, COO, Health Care
+90, COP, Oil & Gas
+91, CPB, Consumer Goods
+92, CPT, Financials
+93, CR, Industrials
+94, CRS, Basic Materials
+95, CRT, Oil & Gas
+96, CRY, Health Care
+97, CSL, Industrials
+98, CSV, Consumer Services
+99, CTS, Industrials
+100, CVX, Oil & Gas
+101, CXW, Financials
+102, D, Utilities
+103, DBD, Technology
+104, DCI, Industrials
+105, DD, Basic Materials
+106, DDD, Technology
+107, DE, Industrials
+108, DGX, Health Care
+109, DHI, Consumer Goods
+110, DIN, Consumer Services
+111, DIS, Consumer Services
+112, DLX, Industrials
+113, DNP, Financials
+114, DOV, Industrials
+115, DRE, Financials
+116, DRI, Consumer Services
+117, DRQ, Oil & Gas
+118, DSM, Financials

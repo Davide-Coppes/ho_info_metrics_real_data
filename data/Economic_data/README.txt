@@ -1,0 +1,2 @@
+In this folder, you will find the daily prices of 119 NYSE stocks for the period spanning from 1999-12-31 to 2021-06-17. 
+For each stock, we also report in the file "list_stocknames.txt" the stock name and the corresponding industrial sector.
